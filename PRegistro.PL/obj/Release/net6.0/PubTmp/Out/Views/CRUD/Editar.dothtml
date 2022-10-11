@@ -1,0 +1,68 @@
+﻿@viewModel PRegistro.PL.ViewModels.CRUD.EditarViewModel, PRegistro.PL
+@masterPage Views/MasterPage.dotmaster
+
+<dot:Content ContentPlaceHolderID="MainContent">
+
+    <div class="page-center">
+
+        <dot:RouteLink RouteName="Default" Text="Regresar" class="page-button btn-back btn-long"/>
+
+        <div class="page-box">
+
+            <h1>Editar Contacto</h1>
+
+            <div Validator.Value="{value: Student.Nombres}"
+                 Validator.InvalidCssClass="has-error"
+                 Validator.SetToolTipText="true"
+                 class="page-input-box">
+
+                Nombres:
+                <dot:TextBox Text="{value: Student.Nombres}" class="page-input" />
+            </div>
+
+            <div Validator.Value="{value: Student.Apellidos}"
+                 Validator.InvalidCssClass="has-error"
+                 Validator.SetToolTipText="true"
+                 class="page-input-box">
+
+                Apellidos:
+                <dot:TextBox Text="{value: Student.Apellidos}" class="page-input" />
+            </div>
+
+            <div Validator.Value="{value: Student.FehcaDeNacimiento}"
+                 Validator.InvalidCssClass="has-error"
+                 Validator.SetToolTipText="true"
+                 class="page-input-box">
+
+                Fecha de Nacimiento:
+                <dot:TextBox Text="{value: Student.FehcaDeNacimiento}"
+                             valueType="DateTime"
+                             FormatString="dd/MM/yy"
+                             class="page-input" />
+            </div>
+
+            <div Validator.Value="{value: Student.Email}"
+                 Validator.InvalidCssClass="has-error"
+                 Validator.SetToolTipText="true"
+                 class="page-input-box">
+
+                Email:
+                <dot:TextBox Text="{value: Student.Email}" class="page-input" />
+            </div>
+
+            <div Validator.Value="{value: Student.Telefono}"
+                 Validator.InvalidCssClass="has-error"
+                 Validator.SetToolTipText="true"
+                 class="page-input-box">
+
+                Telefono:
+                <dot:TextBox Text="{value: Student.Telefono}" class="page-input" />
+            </div>
+
+            <dot:Button Text="Guardar" Click="{command: EditarContacto()}" class="page-button"/>
+        </div>
+
+    </div>
+
+</dot:Content>
+

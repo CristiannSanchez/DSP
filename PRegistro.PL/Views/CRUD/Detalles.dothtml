@@ -1,0 +1,45 @@
+﻿@viewModel PRegistro.PL.ViewModels.CRUD.DetallesViewModel, PRegistro.PL
+@masterPage Views/MasterPage.dotmaster
+
+<dot:Content ContentPlaceHolderID="MainContent">
+
+    <dot:RouteLink RouteName="Default" Text="Guia de Contactos Personales" class="page-button btn-back btn-long"/>
+
+    <div class="page-box">
+        <h1>Detalles del Contacto</h1>
+
+        <div class="page-input-box">
+            Nombres:
+            <span class="input-text-only">{{value: Student.Nombres}}</span>
+        </div>
+
+        <div class="page-input-box">
+            Apellidos:
+            <span class="input-text-only">{{value: Student.Apellidos}}</span>
+        </div>
+
+        <div class="page-input-box">
+            Fecha de Nacimiento:
+            <span class="input-text-only">
+                <dot:Literal Text="{{value: Student.FehcaDeNacimiento}}" FormatString="dd/MM/yy" />
+            </span>
+        </div>
+
+        <div class="page-input-box">
+            Email:
+            <span class="input-text-only">{{value: Student.Email}}</span>
+        </div>
+
+        <div class="page-input-box">
+            Telefono:
+            <span class="input-text-only">{{value: Student.Telefono}}</span>
+        </div>
+
+        <div class="btn-container">
+            <dot:RouteLink RouteName="CRUD_Editar" Param-Id="{value: Student.Id}" Text="Editar" class="page-button"/>
+            <dot:Button Click="{command: DeleteContacto()}" Text="Eliminar" class="page-button"/>
+        </div>
+
+    </div>
+</dot:Content>
+

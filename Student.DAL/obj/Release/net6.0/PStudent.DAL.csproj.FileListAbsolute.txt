@@ -1,0 +1,14 @@
+C:\Users\Casa\Desktop\Investigacion aplicada 2\Student.DAL\bin\Release\net6.0\PStudent.DAL.deps.json
+C:\Users\Casa\Desktop\Investigacion aplicada 2\Student.DAL\bin\Release\net6.0\PStudent.DAL.runtimeconfig.json
+C:\Users\Casa\Desktop\Investigacion aplicada 2\Student.DAL\bin\Release\net6.0\PStudent.DAL.dll
+C:\Users\Casa\Desktop\Investigacion aplicada 2\Student.DAL\bin\Release\net6.0\PStudent.DAL.pdb
+C:\Users\Casa\Desktop\Investigacion aplicada 2\Student.DAL\obj\Release\net6.0\PStudent.DAL.csproj.AssemblyReference.cache
+C:\Users\Casa\Desktop\Investigacion aplicada 2\Student.DAL\obj\Release\net6.0\PStudent.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casa\Desktop\Investigacion aplicada 2\Student.DAL\obj\Release\net6.0\PStudent.DAL.AssemblyInfoInputs.cache
+C:\Users\Casa\Desktop\Investigacion aplicada 2\Student.DAL\obj\Release\net6.0\PStudent.DAL.AssemblyInfo.cs
+C:\Users\Casa\Desktop\Investigacion aplicada 2\Student.DAL\obj\Release\net6.0\PStudent.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Investigacion aplicada 2\Student.DAL\obj\Release\net6.0\PStudent.DAL.dll
+C:\Users\Casa\Desktop\Investigacion aplicada 2\Student.DAL\obj\Release\net6.0\refint\PStudent.DAL.dll
+C:\Users\Casa\Desktop\Investigacion aplicada 2\Student.DAL\obj\Release\net6.0\PStudent.DAL.pdb
+C:\Users\Casa\Desktop\Investigacion aplicada 2\Student.DAL\obj\Release\net6.0\PStudent.DAL.genruntimeconfig.cache
+C:\Users\Casa\Desktop\Investigacion aplicada 2\Student.DAL\obj\Release\net6.0\ref\PStudent.DAL.dll

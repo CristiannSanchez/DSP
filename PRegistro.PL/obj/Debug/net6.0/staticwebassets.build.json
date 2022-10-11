@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "9HGgep3JeDEWyj6tSfGy3dhas3iN6YO51OPEA0XKA2k=",
+  "Source": "PRegistro.PL",
+  "BasePath": "_content/PRegistro.PL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PRegistro.PL\\wwwroot",
+      "Source": "PRegistro.PL",
+      "ContentRoot": "C:\\Users\\Casa\\Desktop\\Investigacion aplicada 2\\PRegistro.PL\\wwwroot\\",
+      "BasePath": "_content/PRegistro.PL",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Casa\\Desktop\\Investigacion aplicada 2\\PRegistro.PL\\wwwroot\\styles.css",
+      "SourceId": "PRegistro.PL",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Casa\\Desktop\\Investigacion aplicada 2\\PRegistro.PL\\wwwroot\\",
+      "BasePath": "_content/PRegistro.PL",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}

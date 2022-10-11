@@ -1,0 +1,32 @@
+﻿@viewModel PRegistro.PL.ViewModels.DefaultViewModel, PRegistro.PL
+@masterPage Views/MasterPage.dotmaster
+<dot:Content ContentPlaceHolderID="MainContent">
+    
+    <div class="page-center">
+        <div class="page-grid-top">
+            <h1>Guia de Contactos</h1>
+            <dot:RouteLink Text="New Student" RouteName="CRUD_Crear" class="page-button btn-add btn-long" />
+        </div>
+
+        <dot:GridView DataSource="{value: Students}" class="page-grid">
+            <Columns>
+                <dot:GridViewTextColumn ValueBinding="{value: Nombres}" HeaderText="Nombres" />
+                <dot:GridViewTextColumn ValueBinding="{value: Apellidos}" HeaderText="Apellidos" />
+                <dot:GridViewTextColumn ValueBinding="{value: FehcaDeNacimiento}" HeaderText="Fecha de Nacimiento" />
+                <dot:GridViewTextColumn ValueBinding="{value: Email}" HeaderText="Email" />
+                <dot:GridViewTextColumn ValueBinding="{value: Telefono}" HeaderText="Telefono" />
+                <dot:GridViewTemplateColumn>
+                    <dot:RouteLink Text="Detalles" RouteName="CRUD_Detalles" Param-Id="{value: Id}"></dot:RouteLink>
+                </dot:GridViewTemplateColumn>
+
+                <dot:GridViewTemplateColumn>
+                    <dot:RouteLink Text="Editar" RouteName="CRUD_Editar" Param-Id="{value: Id}"></dot:RouteLink>
+                </dot:GridViewTemplateColumn>
+            </Columns>
+
+            <EmptyDataTemplate>
+                No se han registrado Contactos todavia.
+            </EmptyDataTemplate>
+        </dot:GridView>
+    </div>
+</dot:Content>

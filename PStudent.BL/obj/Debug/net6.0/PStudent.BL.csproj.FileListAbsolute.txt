@@ -1,0 +1,45 @@
+C:\Users\Casa\Desktop\Guias\PStudent.BL\bin\Debug\net6.0\PStudent.BL.deps.json
+C:\Users\Casa\Desktop\Guias\PStudent.BL\bin\Debug\net6.0\PStudent.BL.dll
+C:\Users\Casa\Desktop\Guias\PStudent.BL\bin\Debug\net6.0\PStudent.BL.pdb
+C:\Users\Casa\Desktop\Guias\PStudent.BL\bin\Debug\net6.0\PStudent.DAL.dll
+C:\Users\Casa\Desktop\Guias\PStudent.BL\bin\Debug\net6.0\PStudent.DAL.pdb
+C:\Users\Casa\Desktop\Guias\PStudent.BL\obj\Debug\net6.0\PStudent.BL.csproj.AssemblyReference.cache
+C:\Users\Casa\Desktop\Guias\PStudent.BL\obj\Debug\net6.0\PStudent.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casa\Desktop\Guias\PStudent.BL\obj\Debug\net6.0\PStudent.BL.AssemblyInfoInputs.cache
+C:\Users\Casa\Desktop\Guias\PStudent.BL\obj\Debug\net6.0\PStudent.BL.AssemblyInfo.cs
+C:\Users\Casa\Desktop\Guias\PStudent.BL\obj\Debug\net6.0\PStudent.BL.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Guias\PStudent.BL\obj\Debug\net6.0\PStudent.BL.csproj.CopyComplete
+C:\Users\Casa\Desktop\Guias\PStudent.BL\obj\Debug\net6.0\PStudent.BL.dll
+C:\Users\Casa\Desktop\Guias\PStudent.BL\obj\Debug\net6.0\refint\PStudent.BL.dll
+C:\Users\Casa\Desktop\Guias\PStudent.BL\obj\Debug\net6.0\PStudent.BL.pdb
+C:\Users\Casa\Desktop\Guias\PStudent.BL\obj\Debug\net6.0\ref\PStudent.BL.dll
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PRegistro.PL\PStudent.BL\bin\Debug\net6.0\PStudent.BL.deps.json
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PRegistro.PL\PStudent.BL\bin\Debug\net6.0\PStudent.BL.dll
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PRegistro.PL\PStudent.BL\bin\Debug\net6.0\PStudent.BL.pdb
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PRegistro.PL\PStudent.BL\bin\Debug\net6.0\PStudent.DAL.dll
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PRegistro.PL\PStudent.BL\bin\Debug\net6.0\PStudent.DAL.pdb
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PRegistro.PL\PStudent.BL\obj\Debug\net6.0\PStudent.BL.csproj.AssemblyReference.cache
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PRegistro.PL\PStudent.BL\obj\Debug\net6.0\PStudent.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PRegistro.PL\PStudent.BL\obj\Debug\net6.0\PStudent.BL.AssemblyInfoInputs.cache
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PRegistro.PL\PStudent.BL\obj\Debug\net6.0\PStudent.BL.AssemblyInfo.cs
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PRegistro.PL\PStudent.BL\obj\Debug\net6.0\PStudent.BL.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PRegistro.PL\PStudent.BL\obj\Debug\net6.0\PStudent.BL.csproj.CopyComplete
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PRegistro.PL\PStudent.BL\obj\Debug\net6.0\PStudent.BL.dll
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PRegistro.PL\PStudent.BL\obj\Debug\net6.0\refint\PStudent.BL.dll
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PRegistro.PL\PStudent.BL\obj\Debug\net6.0\PStudent.BL.pdb
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PRegistro.PL\PStudent.BL\obj\Debug\net6.0\ref\PStudent.BL.dll
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PStudent.BL\bin\Debug\net6.0\PStudent.BL.deps.json
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PStudent.BL\bin\Debug\net6.0\PStudent.BL.dll
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PStudent.BL\bin\Debug\net6.0\PStudent.BL.pdb
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PStudent.BL\bin\Debug\net6.0\PStudent.DAL.dll
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PStudent.BL\bin\Debug\net6.0\PStudent.DAL.pdb
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PStudent.BL\obj\Debug\net6.0\PStudent.BL.csproj.AssemblyReference.cache
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PStudent.BL\obj\Debug\net6.0\PStudent.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PStudent.BL\obj\Debug\net6.0\PStudent.BL.AssemblyInfoInputs.cache
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PStudent.BL\obj\Debug\net6.0\PStudent.BL.AssemblyInfo.cs
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PStudent.BL\obj\Debug\net6.0\PStudent.BL.csproj.CoreCompileInputs.cache
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PStudent.BL\obj\Debug\net6.0\PStudent.BL.csproj.CopyComplete
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PStudent.BL\obj\Debug\net6.0\PStudent.BL.dll
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PStudent.BL\obj\Debug\net6.0\refint\PStudent.BL.dll
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PStudent.BL\obj\Debug\net6.0\PStudent.BL.pdb
+C:\Users\Casa\Desktop\Investigacion aplicada 2\PStudent.BL\obj\Debug\net6.0\ref\PStudent.BL.dll
